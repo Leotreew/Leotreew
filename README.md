@@ -5,6 +5,6 @@
 ### Olá 👋
 Eu sou Leonardo, estudante de ciência da computação pela UFABC - Universidade Federal  do ABC, cursando o 4º semestre.
 
-- 🔍 Atualmente a procura de um Estagio em desenvolvimento.
-- 📚 Estou estudando no momento HTML/CSS/JavaScript/React.
+- 🔍 Atualmente Estagiario no Itaú.
+- 📚 Estou estudando no momento Java/Angular.
 - 🙎‍♂️ Sobre mim: Entusiasta do mundo de games e Esports.
